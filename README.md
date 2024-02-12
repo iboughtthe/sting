@@ -16,8 +16,9 @@ Generate Pyrogram String Session Using this bot.
 - BOT_TOKEN
   - Telegram Bot Token from [here](https://t.me/BotFather).
 
-## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iboughtthe/sting)
+<a href="https://dashboard.heroku.com/new?template=https://github.com/iboughtthe/sting/">
+     <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
 
 ## Support Group:
 <a href="https://t.me/stringsessionAK47"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
